@@ -15,7 +15,7 @@ const initialState = {
   ]
 }
 
-const productsReducer = function(state = initialState, action) {
+const productsReducer = function(state = [], action) {
   return state;
 }
 
